@@ -25,7 +25,7 @@ namespace Storybook1
                 Console.WriteLine("A: Talulah");
                 Console.WriteLine("B: Bee ");
                 Console.WriteLine("C: Gorilla Thompson");
-
+                Console.WriteLine("");
 
                 int usernumber = -1;
 
